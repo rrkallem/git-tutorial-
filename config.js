@@ -1,2 +1,2 @@
 console.log('config.JS');
-console.log('version3');
+console.log('version4');
